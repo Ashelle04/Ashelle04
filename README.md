@@ -1,4 +1,4 @@
-### Hi there its Ashelle Pereira 👋
+<h3 align="center">### Hi there its Ashelle Pereira 👋
 <h3 align="center">I am a Busniess and technology Ethusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashelle04&label=Profile%20views&color=0e75b6&style=flat" alt="ashelle04" /> </p>
