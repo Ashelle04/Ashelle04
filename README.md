@@ -1,5 +1,5 @@
 ### Hi there its Ashelle Pereira 👋
-<h3 align="center">I am a passionate Busniess and technology Ethusiast</h3>
+<h3 align="center">I am a Busniess and technology Ethusiast</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Stevens+Institute+of+Technology;Masters+In+Information+systems+;Busniess%2F+Strategy+Analyst)](https://git.io/typing-svg)
 
