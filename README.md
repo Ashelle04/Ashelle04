@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **apereir4@stevens.edu**
 
-- 📄 Know about my experiences [file:///C:/Users/15512/OneDrive/Desktop/Ashelle%20Pereira%20New%20resume.pdf](file:///C:/Users/15512/OneDrive/Desktop/Ashelle%20Pereira%20New%20resume.pdf)
+- 📄 Know about my experiences [Download Resume](file:///C:/Users/15512/OneDrive/Desktop/Ashelle%20Pereira%20New%20resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
