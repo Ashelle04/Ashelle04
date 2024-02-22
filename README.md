@@ -6,13 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Stevens+Institute+of+Technology;Masters+In+Information+systems+;Busniess%2F+Strategy+Analyst)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Studying in **Stevens Institute of Technology**
-
-- 🌱 I’m currently learning **Python, Salesforce, AWS**
-
-- 💬 Ask me about **Data Analytics/ Visualizations**
-
+- 🌱 Tools im Proficient in  **SQL,Python, R-studio-EXCEL,JQL**
+- 🌱 I’m currently learning **Salesforce, AWS**
+- 💬 Ask me about **Data Analytics, Data Visualizations, Project Management(Agile/Scrum), Busniess Process modelling, Research**
 - 📫 How to reach me **apereir4@stevens.edu**
-
 - 📄 Know about my experiences [Download Resume](https://github.com/Ashelle04/Resume-/blob/main/Ashelle%20Pereira%20Resume%20New%20.pdf)
 
 
