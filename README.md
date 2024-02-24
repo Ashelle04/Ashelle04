@@ -1,9 +1,9 @@
 <h1 align="center"><span style="font-size:36px;">Hi there its Ashelle Pereira 👋</span></h1>
 <h3 align="center">I am a Busniess and technology Ethusiast</h3>
 
-<p align="left"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Stevens+Institute+Of+Technology;Masters+In+Information+Systems;Business+%2F+Strategy+Analyst)](https://git.io/typing-svg)
+<p align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Stevens+Institute+of+Technology;Masters+In+Information+systems+;Busniess%2F+Strategy+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Stevens+Institute+Of+Technology;Masters+In+Information+Systems;Business+%2F+Strategy+Analyst)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Studying in **Stevens Institute of Technology**
 - 🌱 Tools im Proficient in  **SQL,Python, R-studio-EXCEL,JQL**
