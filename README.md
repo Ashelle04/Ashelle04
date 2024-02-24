@@ -1,5 +1,5 @@
 <h1 align="center"><span style="font-size:36px;">Hi there its Ashelle Pereira 👋</span></h1>
-<h3 align="center">I am a Busniess and technology Ethusiast</h3>
+<h3 align="center">I am a Busniess and Technology Ethusiast</h3>
 
 <p align="left">
 
