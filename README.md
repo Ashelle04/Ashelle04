@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Stevens+Institute+Of+Technology;Masters+In+Information+Systems;Business+%2F+Strategy+Analyst)](https://git.io/typing-svg)
 
-- 🔭 I’m currently Studying in **Stevens Institute of Technology**
+- 🔭 Graduate Student at **Stevens Institute of Technology**
 - 🌱 Tools im Proficient in  **SQL,Python, R-studio-EXCEL,JQL**
 - 🌱 I’m currently learning **Salesforce, AWS**
 - 💬 Ask me about **Data Analytics, Data Visualizations, Project Management(Agile/Scrum), Busniess Process modelling, Research**
